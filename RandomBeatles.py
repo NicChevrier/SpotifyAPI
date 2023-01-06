@@ -4,7 +4,7 @@ import json
 
 # Replace YOUR_CLIENT_ID and YOUR_CLIENT_SECRET with your actual client id and secret, which you can obtain by creating a developer account at https://developer.spotify.com/
 CLIENT_ID = ""
-CLIENT_SECRET = "="
+CLIENT_SECRET = ""
 
 # Request an access token from the Spotify Web API
 response = requests.post(
